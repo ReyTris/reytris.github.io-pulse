@@ -110,7 +110,6 @@
         &__wrapper {
             display: flex;
             width: calc(200% + 40px);
-
         }
         &__content {
             width: 50%;
@@ -165,7 +164,7 @@
             text-decoration: underline;
             text-transform: uppercase;
             &:hover {
-                color:$main-color;
+                color: $main-color;
             }
         }
     }
